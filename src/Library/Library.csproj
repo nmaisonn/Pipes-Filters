@@ -1,4 +1,5 @@
 <Project Sdk="Microsoft.NET.Sdk">
+
   <PropertyGroup>
     <AssemblyName>PipesAndFilters</AssemblyName>
     <TargetFramework>net5.0</TargetFramework>
@@ -8,6 +9,6 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\..\PII_TwitterApi\src\Library\Library.csproj" />
-    <ProjectReference Include="..\..\..\PII_CognitiveAPI\src\Library\Library.csproj" />
+    <ProjectReference Include="..\..\..\PII_CognitiveApi\src\Library\Library.csproj" />
   </ItemGroup>
 </Project>
